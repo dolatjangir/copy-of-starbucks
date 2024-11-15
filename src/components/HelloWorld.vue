@@ -15,10 +15,10 @@
                 <button class="">GIFT CARDS</button>
             </div>
             
-            <div class="right  sm:hidden 2xl:block font-semibold">
+            <div class="right  sm:invisible 2xl:visible font-semibold">
                 <button class="pr-6 flex gap-2 justify-center items-center text-lg"><i class="fa-solid fa-location-dot"></i> Find Store</button>
                 <button class="sign-in border border-neutral-400 rounded-3xl px-4 py-2">Sign In</button>
-                <button class="join-now bg-black text-white rounded-3xl px-4 p">Join Now</button>
+                <button class="join-now bg-black text-white rounded-3xl px-4 ">Join Now</button>
             </div>
             <div class="hamburger pr-3 text-xl 2xl:hidden">
              <i class="fa-solid fa-bars"></i>
@@ -26,7 +26,6 @@
         </div>
       </div>
 </template>
-
 <style scoped>
 .left, .right{
 display: flex;

@@ -19,9 +19,7 @@ export default {
 
       '2xl': '1024px',
       // => @media (min-width: 1536px) { ... }
-
-      '3xl': '1440px',
-    },
+  },
     extend: {},
   },
   plugins: [],
