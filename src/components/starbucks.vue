@@ -107,7 +107,7 @@
   <div class="bg-[#d4e9e2] sm:pb-[48px] flex sm:flex-col justify-center items-center xl:flex-row xl:py-[32px]">
     <div class="sm:py-[32px]">
     <img class="sm:w-[320px] sm:h-[180px] xl:w-[345px] xl:h-[194.1px] xl:mr-[48px] flex-grow" src="https://www.starbucks.com/weblx/images/rewards/reward-tiers/25.png"/>
-  </div>
+  </div> 
   <div class="text-center xl:w-[403px]">
     <h1 class="text-xl font-bold sm:pb-[16px] xl:text-2xl">Customize your drink</h1>
     <p class="text-center flex-grow md:text-left  xl:px-[16px]">Make your drink just right with an extra espresso shot or a dash of your favorite syrup.</p>
